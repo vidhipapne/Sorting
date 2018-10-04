@@ -16,7 +16,7 @@ class queue{
      
      void enqueue(int x){
           if(filled == size){
-               cout << "Queue exced the size " <<endl;
+               cout << "Queue exceed the size " <<endl;
           }
           else{
                if(rear==size-1){
