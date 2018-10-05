@@ -50,6 +50,6 @@ int main()
 	{
 		cin>>a[i];
 }
-heapsort(a,n);int s;cin>>s;
+heapsort(a,n);
 return 0;
 }
